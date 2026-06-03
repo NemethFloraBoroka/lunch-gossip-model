@@ -2,6 +2,8 @@
 
 A temporal lunch-contact model for simulating workplace gossip spreading on acquaintance networks.
 
+A detailed description of the model, its motivation, mathematical formulation, simulation experiments, and example results is available in [`Gossip_model.pdf`](Gossip_model.pdf).
+
 This repository contains a small stochastic simulation model developed for a network science course assignment. The model represents a workplace as a stable acquaintance network and simulates gossip spreading through daily lunch-table encounters.
 
 The aim is not to predict real workplace behaviour, but to provide a transparent toy model that can be modified, visualized, and used for exploring different spreading scenarios.
